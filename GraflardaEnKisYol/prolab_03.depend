@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1460592185 source:c:\users\cengo105\desktop\prolab_deneme_2\prolab_03\main.cpp
+	<iostream>
+	<stdlib.h>
+	<graphics.h>
+	<conio.h>
+
+1460633457 source:c:\users\cengo105\desktop\prolab03\prolab_03\main.cpp
+	<iostream>
+	<stdlib.h>
+	<graphics.h>
+	<conio.h>
+
